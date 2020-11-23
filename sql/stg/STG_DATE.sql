@@ -1,0 +1,4 @@
+CREATE TABLE STG_DATE
+(	
+    "DATETIME" int NOT NULL
+);
