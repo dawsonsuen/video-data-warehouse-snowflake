@@ -1,6 +1,6 @@
 # Video Data Warehouse Design
 
-The purpose of this repository is to demonstrate how to construct a START schema data warehouse which used to track VideoStarts over time. The SQL queries use SnowSQL syntax to populate the Data Warehouse Dimension and Fact tables.
+The purpose of this repository is to demonstrate how to construct a STAR schema data warehouse which used to track VideoStarts over time. The SQL queries use SnowSQL syntax to populate the Data Warehouse Dimension and Fact tables. Please check the design_doc.pdf for full documentation.
 
 ## Process Design
 
